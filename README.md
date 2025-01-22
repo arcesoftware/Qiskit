@@ -54,3 +54,36 @@ If you're ready to install now, simply run:
 
 ```bash
 pip install qiskit
+```
+
+# The Qiskit Ecosystem
+
+Beyond the core Qiskit SDK, the Qiskit ecosystem includes numerous open-source projects that use the "Qiskit" name but are not part of Qiskit itself. These projects interface with Qiskit to provide valuable additional functionality that supplements the core Qiskit workflow. 
+
+Some of these projects are maintained by IBM Quantum teams, while others are supported by the broader open-source community. The Qiskit SDK is designed in a modular, extensible way, enabling developers to create projects that extend its capabilities.
+
+## Popular Projects in the Qiskit Ecosystem
+
+### 1. **Qiskit Aer (`qiskit-aer`)**
+- A package for quantum computing simulators with realistic noise models.
+- Provides interfaces to run quantum circuits with or without noise using multiple simulation methods.
+- **Maintained by:** IBM Quantum.
+
+### 2. **qBraid SDK (`qbraid`)**
+- A platform-agnostic quantum runtime framework designed for quantum software and hardware providers.
+- Streamlines the full lifecycle of quantum jobs—from defining program specifications, job submission, to post-processing and visualization of results.
+- **Maintained by:** qBraid.
+
+### 3. **Mthree (`mthree`)**
+- Implements M3 (Matrix-free Measurement Mitigation), a technique for correcting measurement probabilities.
+- Uses a dimensionality reduction step followed by direct LU factorization or a preconditioned iterative method. These methods nominally converge in \( O(1) \) steps and can compute in parallel.
+- **Maintained by:** IBM Quantum.
+
+---
+
+## Explore More
+
+You can discover additional projects in the **[Qiskit ecosystem catalog](https://qiskit.org/ecosystem)**. This catalog also provides guidance on how to nominate your own project to become part of the Qiskit ecosystem.
+
+ **Maple Software 2025 by John Maple** 
+
