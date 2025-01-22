@@ -1,5 +1,5 @@
 # Introduction to Qiskit
-
+![Quantum Machine](https://github.com/arcesoftware/Qiskit/blob/main/quantum_machine.png)
 The name "Qiskit" refers to a collection of software tools for executing programs on quantum computers. Most notably among these tools are:
 
 - The **open-source Qiskit SDK**, and
