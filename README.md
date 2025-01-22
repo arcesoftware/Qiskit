@@ -1,6 +1,10 @@
 # Introduction to Qiskit
 
-![Quantum Machine](https://github.com/arcesoftware/Qiskit/blob/main/quantum_machine.png)
+
+<div align="center">
+  <img src="https://github.com/arcesoftware/Qiskit/blob/main/quantum_machine.png" alt="Quantum Machine" />
+</div>
+
 
 The name "Qiskit" refers to a collection of software tools for executing programs on quantum computers. Most notably among these tools are:
 
